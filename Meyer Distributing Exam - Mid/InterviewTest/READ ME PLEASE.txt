@@ -7,5 +7,6 @@
 -)I was not sure if you wanted me to use entity framework for handling database queries or stored procedure so I didn't take a shortcut lol,
   and went with doing sql stored procedures.
 -)I am done with all the tasks except for unit testing as its kinda getting late to submit the project.
+-)Also you may have to change the connection string for localDB
 -)Please let me know if you have any further questons.
 -)Thank you again :)
